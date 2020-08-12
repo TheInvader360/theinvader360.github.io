@@ -17,6 +17,7 @@ See https://github.com/drehimself/gridsome-portfolio-starter.git
 
 * `gridsome build` to generate static site in `./dist`
 
-## Deploy
+## Deploy to github pages
 
-* `npm run deploy` to deploy to gh-pages (https://theinvader360.github.io/)
+* `npm run deploy`
+

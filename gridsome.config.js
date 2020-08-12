@@ -43,13 +43,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'TheInvader360 Blog',
-          feed_url: 'https://theinvader360.com/rss.xml',
-          site_url: 'https://theinvader360.com/'
+          feed_url: 'https://theinvader360.github.io/rss.xml',
+          site_url: 'https://theinvader360.github.io'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://theinvader360.com' + node.path,
+          url: 'https://theinvader360.github.io/' + node.path,
           author: 'TheInvader360',
           date: node.date
         }),
