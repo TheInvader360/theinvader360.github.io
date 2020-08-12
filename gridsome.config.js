@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'TheInvader360',
   siteDescription: 'Gridsome & Tailwind',
-  siteUrl: 'https://theinvader360.com',
+  siteUrl: 'https://theinvader360.github.io',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',

@@ -5,9 +5,9 @@ See https://github.com/drehimself/gridsome-portfolio-starter.git
 ## Installation
 
 1. `yarn global add @gridsome/cli`
-1. `git clone git@github.com:TheInvader360/website-theinvader360-gridsome.git`
-1. `cd website-theinvader360-gridsome`
-1. `yarn install`
+2. `git clone git@github.com:TheInvader360/theinvader360.github.io.git`
+3. `cd theinvader360.github.io`
+4. `yarn install`
 
 ## Run
 
@@ -16,3 +16,7 @@ See https://github.com/drehimself/gridsome-portfolio-starter.git
 ## Build
 
 * `gridsome build` to generate static site in `./dist`
+
+## Deploy
+
+* `npm run deploy` to deploy to gh-pages (https://theinvader360.github.io/)
