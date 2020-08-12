@@ -49,7 +49,7 @@ module.exports = {
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://theinvader360.github.io/' + node.path,
+          url: 'https://theinvader360.github.io' + node.path,
           author: 'TheInvader360',
           date: node.date
         }),
