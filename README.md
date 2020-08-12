@@ -19,5 +19,6 @@ See https://github.com/drehimself/gridsome-portfolio-starter.git
 
 ## Deploy to github pages
 
+* `npm run clean`
 * `npm run deploy`
 
