@@ -209,10 +209,6 @@
     margin: .67em 0;
   }
 
-  .markdown-body img {
-    border-style: none;
-  }
-
   .markdown-body code,
   .markdown-body kbd,
   .markdown-body pre {
@@ -662,17 +658,13 @@
   }
 
   .markdown-body img {
+    border-style: none;
     background-color: #fff;
     box-sizing: content-box;
     max-width: 100%;
-  }
-
-  .markdown-body img[align=right] {
-    padding-left: 20px;
-  }
-
-  .markdown-body img[align=left] {
-    padding-right: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .markdown-body code {

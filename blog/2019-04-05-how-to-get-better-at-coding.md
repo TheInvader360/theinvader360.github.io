@@ -6,7 +6,7 @@ summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earu
 tags: ['coding', 'frontend', 'backend']
 ---
 
-![background](./images/blog_bg_b.jpg)
+![background](./images/blog_bg.jpg)
 
 Lorem ipsum dolor sit amet, [consectetur adipisicing](https://google.ca) elit. Praesentium inventore hic possimus, cum nesciunt ea debitis, tempora officia perferendis vero ratione nam laudantium aliquid voluptatem velit? Open `/src/layouts.vue` and then edit the `main.css` file.
 
