@@ -75,11 +75,6 @@ nav .active {
   @apply border-black border-b;
 }
 
-.container-inner {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 @media (min-width: 640px) {
   .container-inner {
     max-width: 640px;
